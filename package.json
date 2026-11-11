@@ -1,5 +1,19 @@
 {
+<<<<<<< HEAD
 	"dependencies": {
 		"lucide-react": "^1.71.0"
+=======
+	"devDependencies": {
+		"@types/node": "^26.6.6",
+		"prisma": "^7.10.1",
+		"vitest": "^5.1.0"
+	},
+	"dependencies": {
+		"@nestjs/common": "^12.4.0",
+		"@nestjs/core": "^12.4.0",
+		"@nestjs/observe": "^0.3.25",
+		"reflect-metadata": "^0.2.2",
+		"rxjs": "^7.8.2"
+>>>>>>> d58a76790aa21805c6c6c54613e32df9b9a4ea2a
 	}
 }
